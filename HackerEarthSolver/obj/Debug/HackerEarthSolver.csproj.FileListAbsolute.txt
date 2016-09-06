@@ -1,0 +1,6 @@
+F:\MyProjects\Git\CodeChefSolver\HackerEarthSolver\bin\Debug\HackerEarthSolver.exe.config
+F:\MyProjects\Git\CodeChefSolver\HackerEarthSolver\bin\Debug\HackerEarthSolver.exe
+F:\MyProjects\Git\CodeChefSolver\HackerEarthSolver\bin\Debug\HackerEarthSolver.pdb
+F:\MyProjects\Git\CodeChefSolver\HackerEarthSolver\obj\Debug\HackerEarthSolver.csprojResolveAssemblyReference.cache
+F:\MyProjects\Git\CodeChefSolver\HackerEarthSolver\obj\Debug\HackerEarthSolver.exe
+F:\MyProjects\Git\CodeChefSolver\HackerEarthSolver\obj\Debug\HackerEarthSolver.pdb

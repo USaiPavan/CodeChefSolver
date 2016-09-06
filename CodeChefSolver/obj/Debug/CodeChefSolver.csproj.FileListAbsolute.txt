@@ -1,1 +1,7 @@
 F:\MyProjects\Sides\CodeChefSolver\CodeChefSolver\bin\Debug\CodeChefSolver.exe.config
+F:\MyProjects\Git\CodeChefSolver\CodeChefSolver\bin\Debug\CodeChefSolver.exe.config
+F:\MyProjects\Git\CodeChefSolver\CodeChefSolver\bin\Debug\CodeChefSolver.exe
+F:\MyProjects\Git\CodeChefSolver\CodeChefSolver\bin\Debug\CodeChefSolver.pdb
+F:\MyProjects\Git\CodeChefSolver\CodeChefSolver\obj\Debug\CodeChefSolver.csprojResolveAssemblyReference.cache
+F:\MyProjects\Git\CodeChefSolver\CodeChefSolver\obj\Debug\CodeChefSolver.exe
+F:\MyProjects\Git\CodeChefSolver\CodeChefSolver\obj\Debug\CodeChefSolver.pdb

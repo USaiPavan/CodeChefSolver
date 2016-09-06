@@ -1,0 +1,5 @@
+F:\MyProjects\Git\CodeChefSolver\ProgrammingChallengeSolver.Tests\bin\Debug\ProgrammingChallengeSolver.Tests.dll
+F:\MyProjects\Git\CodeChefSolver\ProgrammingChallengeSolver.Tests\bin\Debug\ProgrammingChallengeSolver.Tests.pdb
+F:\MyProjects\Git\CodeChefSolver\ProgrammingChallengeSolver.Tests\obj\Debug\ProgrammingChallengeSolver.Tests.csprojResolveAssemblyReference.cache
+F:\MyProjects\Git\CodeChefSolver\ProgrammingChallengeSolver.Tests\obj\Debug\ProgrammingChallengeSolver.Tests.dll
+F:\MyProjects\Git\CodeChefSolver\ProgrammingChallengeSolver.Tests\obj\Debug\ProgrammingChallengeSolver.Tests.pdb
