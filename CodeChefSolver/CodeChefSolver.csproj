@@ -43,9 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Easy\HolesInTheText.cs" />
+    <Compile Include="PrimeHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Solutions\DividingMachine_Sep2016.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

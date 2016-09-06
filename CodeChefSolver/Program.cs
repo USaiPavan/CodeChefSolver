@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CodeChefSolver.Solutions;
 
 namespace CodeChefSolver
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            DividingMachineSep2016.JudgeEntry();
         }
     }
 }
